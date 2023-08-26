@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-26T00:06:55 IST" name="Default suite" finished-at="2023-08-26T00:07:18 IST" duration-ms="23557">
+    <groups>
+    </groups>
+    <test started-at="2023-08-26T00:06:55 IST" name="Default test" finished-at="2023-08-26T00:07:18 IST" duration-ms="23557">
+      <class name="tests.Checkbox_test">
+        <test-method is-config="true" signature="getdata()[pri:0, instance:tests.Checkbox_test@6d4d66d2]" started-at="2023-08-26T00:06:55 IST" name="getdata" finished-at="2023-08-26T00:07:17 IST" duration-ms="22584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="clickoncheckboxpage()[pri:0, instance:tests.Checkbox_test@6d4d66d2]" started-at="2023-08-26T00:07:17 IST" name="clickoncheckboxpage" finished-at="2023-08-26T00:07:17 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncheckboxpage -->
+        <test-method signature="checkallelement()[pri:1, instance:tests.Checkbox_test@6d4d66d2]" started-at="2023-08-26T00:07:17 IST" name="checkallelement" finished-at="2023-08-26T00:07:18 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkallelement -->
+      </class> <!-- tests.Checkbox_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
