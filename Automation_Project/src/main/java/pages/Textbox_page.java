@@ -30,6 +30,9 @@ public class Textbox_page extends Baselibrary_utility{
 	@FindBy(xpath="//input[@class=\"btn btn-success\"]")
 	private WebElement submitbutton;
 	
+	//
+	@FindBy(xpath="")
+	private WebElement extra;
 	
 	public void clickontextbox()
 	{
